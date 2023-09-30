@@ -7,8 +7,6 @@
 | [**References**](#references)
 | [**Documentation**](https://github.com/cjerzak/causalimages-software/blob/main/causalimages.pdf)
 
-For the experimental package version, see (GitHub.com/cjerzak/causalimages-software)[https://github.com/cjerzak/causalimages-software]
-
 Additional tutorials: 
 [**Image-based De-confounding**](https://github.com/cjerzak/causalimages-software/blob/main/tutorials/AnalyzeImageConfounding_Tutorial.R)
 | [**Image/Video Embeddings**](https://github.com/cjerzak/causalimages-software/blob/main/tutorials/AnalyzeImageConfounding_Tutorial.R) | [**Speeding Up Code**](https://github.com/cjerzak/causalimages-software/blob/main/tutorials/UsingTfRecords_Tutorial.R)
@@ -16,6 +14,8 @@ Additional tutorials:
 Replication data: 
 [**Heterogeneity Paper**](https://doi.org/10.7910/DVN/O8XOSF) | 
 [**De-confounding Paper**](https://doi.org/10.7910/DVN/QLCSVR)
+
+*For the experimental package version, see* (`GitHub.com/cjerzak/causalimages-software`)[https://github.com/cjerzak/causalimages-software]
 
 # What is `causalimages`?<a id="description"></a>
 
