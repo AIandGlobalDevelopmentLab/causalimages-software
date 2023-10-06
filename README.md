@@ -15,7 +15,9 @@ Replication data:
 [**Heterogeneity Paper**](https://doi.org/10.7910/DVN/O8XOSF) | 
 [**De-confounding Paper**](https://doi.org/10.7910/DVN/QLCSVR)
 
-*For the beta package version, see* [`GitHub.com/cjerzak/causalimages-software`](https://github.com/cjerzak/causalimages-software)
+_Stable package version_ [`GitHub.com/AIandGlobalDevelopmentLab/causalimages-software`](https://github.com/AIandGlobalDevelopmentLab/causalimages-software)
+
+_Beta package version_ [`GitHub.com/cjerzak/causalimages-software`](https://github.com/cjerzak/causalimages-software)
 
 # What is `causalimages`?<a id="description"></a>
 
